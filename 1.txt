@@ -1,0 +1,26 @@
+
+	Computation:
+	An infinity of isomorphic metaphors
+	for term rewriting.
+
+
+So there's my first haiku, composed while walking up to collect Jean
+from School.
+
+Observations:
+
+ 1) I'm not quite sure how to count syllables. And this "5-7-5" rule
+ seems poorly observed in examples of haikus I've found online, so
+ I've decided to ignore it, and go for an intuitive feeling of balance
+ and rhythm rather than any strict rules.
+
+ 2) The subject matter is some abstract computer science. See:
+
+    http://en.wikipedia.org/wiki/Term_rewriting
+    http://en.wikipedia.org/wiki/Abstract_rewriting_system
+    http://en.wikipedia.org/wiki/Formal_system
+    http://en.wikipedia.org/wiki/Lambda_calculus
+    http://en.wikipedia.org/wiki/Natural_deduction
+    http://en.wikipedia.org/wiki/Hoare_logic
+    http://en.wikipedia.org/wiki/Operational_semantics
+    http://en.wikipedia.org/wiki/Denotational_semantics
