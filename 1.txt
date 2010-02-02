@@ -24,3 +24,11 @@ Observations:
     http://en.wikipedia.org/wiki/Hoare_logic
     http://en.wikipedia.org/wiki/Operational_semantics
     http://en.wikipedia.org/wiki/Denotational_semantics
+
+ The gist of it, however, is that the process of computation - from
+ working out sums or doing calculus or formal logical deduction on pen
+ and paper, to a supercomputer predicting the weather or a server farm
+ providing a complex Web application to millions of users - can all
+ be explained in terms of a mathematical system called "term
+ rewriting". Therefore, all these computational processes are, really,
+ just metaphors for an underlying term-rewriting activity.
