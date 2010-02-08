@@ -1,0 +1,13 @@
+
+	Wopowrimo:
+	Half an hour's quiet reflection each day
+	Because a challenge is a gift, not a curse.
+
+I'm not a poet; I'm an engineer. Not that the two need to be mutually
+exclusive, of course; but either way, I don't consider myself even an
+amateur poet.
+
+However, I decided to do WoPoWriMo, because trying to do something I
+don't know how to do is a learning experience to be enjoyed, not
+something to be afraid of. I've found I can knock out reasonable
+haiku; and I've had some fun doing it in git!
