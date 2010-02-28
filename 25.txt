@@ -1,0 +1,25 @@
+
+	A lathe is an awesome tool:
+	It can remove everything that is not an engine
+	From a block of steel.
+
+
+Lathes are great. For a start, you can build a lathe without precision
+machine tools - yet it is itself a precision machine tool, able to
+make incredibly precisely-dimensioned objects.
+
+Despite being quite simple (a means of supporting a piece of metal and
+rotating it about an axis, while moving a tool along and perpendicular
+to that axis), they can be used to do amazing things. Most people
+think of using them to create objects of uniform rotational cross
+section, like pots turned on a wheel, but they can be used to make
+anything that more specialised machine tools can make; you can mount
+your workpiece on the tool holder and fit a cutting heat to the lathe,
+for example, and thereby cut slots in things.
+
+And, with a simple mechanism to drive the motion of the tool from the
+rotation of the workpiece, they can also put screw threads onto
+internal or external surfaces.
+
+Given a lathe, you can make anything - even if you need extra tools,
+you can make them all on the lathe itself!
